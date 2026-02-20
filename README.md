@@ -49,30 +49,9 @@ It is a beginner-friendly project to understand:
 Login-System/
 │
 ├── main.cpp
-├── users.txt
-└── README.md
-```
+└── users.txt
 
----
-
-## 💻 How to Run
-
-### 1. Clone the repository
 ```
-git clone <your-repository-link>
-```
-
-### 2. Compile the program
-```
-g++ main.cpp -o login
-```
-
-### 3. Run the program
-```
-./login
-```
-
----
 
 ## 📸 Screenshots
 
